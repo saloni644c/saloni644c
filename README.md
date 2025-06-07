@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saloni Chourasiya
-- 👀 I’m interested in Quantum optics, quantum computing and getting my hands on quantum machine learning too :)
-- 💞️ I’m looking to collaborate on exciting projects on intersection of quantum optics experiments and machine learning
+- 🤖 I’m transitioning into AI/ML and solving real-world problems with intelligent systems
 - 📫 Reach out to me at saloni644c@gmail.com
 - 😄 Pronouns: she/her
 
