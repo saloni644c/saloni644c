@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Saloni Chourasiya
-- 🤖 I’m transitioning into AI/ML and solving real-world problems with intelligent systems
-- 📫 Reach out to me at saloni644c@gmail.com
-- 😄 Pronouns: she/her
+# Hi there 👋, I'm Saloni Chourasiya
+
+🚀 Aspiring AI/ML Engineer passionate about building intelligent systems that solve real-world challenges.
+
+💡 Currently focused on developing automation solutions for the healthcare sector, leveraging AI and machine learning to improve efficiency and outcomes.
+
+🌱 Continuously learning and exploring Machine Learning, Deep Learning, Generative AI, and MLOps.
+
+🤝 Open to collaborating on AI, ML, Data Science, and healthcare technology projects.
+
+📫 Reach me at: **[saloni644c@gmail.com](mailto:saloni644c@gmail.com)**
+
+😄 Pronouns: **She/Her**
+
 
 
 <!---
