@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Saloni Chourasiya
 
-🚀 Aspiring AI/ML Engineer passionate about building intelligent systems that solve real-world challenges.
-
+🚀 Software Engineer | AI/ML | Backend | Scientific Computing | Physicist
 💡 Currently focused on developing automation solutions for the healthcare sector, leveraging AI and machine learning to improve efficiency and outcomes.
 
 🌱 Continuously learning and exploring Machine Learning, Deep Learning, Generative AI, and MLOps.
